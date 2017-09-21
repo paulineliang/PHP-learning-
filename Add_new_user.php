@@ -31,9 +31,7 @@
         <label for="inputPassword" class="sr-only">Password</label>
         <input type="password" id="inputPassword" name="password" class="form-control" placeholder="輸入您的密碼" required>
         <div class="checkbox">
-          <label>
-            <input type="checkbox" value="remember-me"> 記住我
-          </label>
+          
         </div>
         <button class="btn btn-lg btn-primary btn-block" type="submit">註冊</button>
       </form>
